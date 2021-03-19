@@ -1,0 +1,27 @@
+body {
+  background-image: url("background.jpg");
+  background-size: contained;
+  color: lawngreen;
+}
+
+main {
+  background-color: sienna;
+}
+
+ul {
+  list-style-image: url('caticon.jpg');
+}
+
+#wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+img {
+  height: 300px;
+}
+
+#borderimg {
+  border-image: url(borderImage.png);
+}
